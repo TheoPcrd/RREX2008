@@ -4,7 +4,7 @@ RREX2008 is a realistic simulation of the circulation in a northeastern part of 
 
 # Publication
 
-Picard et al. Seasonal tracer subduction in the Subpolar North Atlantic driven by submesoscale fronts (in preparation).
+Picard et al. (in preparation) : Seasonal tracer subduction in the Subpolar North Atlantic driven by submesoscale fronts 
 
 # DOI
 
