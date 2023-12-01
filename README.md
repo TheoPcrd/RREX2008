@@ -10,7 +10,7 @@ Picard et al. (in preparation) : Seasonal tracer subduction in the Subpolar Nort
 
 # DOI
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10245485.svg)](https://doi.org/10.5281/zenodo.10245485)
 
  
 
